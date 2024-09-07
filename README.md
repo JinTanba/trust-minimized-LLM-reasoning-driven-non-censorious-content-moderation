@@ -7,6 +7,8 @@ trust-minimized-LLM-reasoning + DAO
 =======
 https://www.reuters.com/technology/durov-says-telegram-will-take-new-approach-towards-moderation-2024-09-06/
 
+![IMG_2440](https://github.com/user-attachments/assets/7779ffb2-67a6-4142-9fd1-bc379bd6bb7d)
+
 
 # LLM and blockchain-based trust-minimized reasoning, and content moderation that avoids censorship (信用最小化推論)
 
